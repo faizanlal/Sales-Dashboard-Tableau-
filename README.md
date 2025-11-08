@@ -118,9 +118,6 @@ This dashboard demonstrates:
 - Strong visual storytelling  
 - Interactive exploration through “Use as Filter”  
 - A well-balanced UI and intuitive UX structure  
-
-Built as a portfolio-ready, employer-friendly project showcasing real dashboarding skills.
-
 ---
 
 
